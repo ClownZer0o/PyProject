@@ -9,9 +9,3 @@ def kali(a,b):
 
 def bagi(a,b):
     print(a/b)
-
-a = 2
-b = 5
-
-tambah(a,b)
-kali(a,b)
