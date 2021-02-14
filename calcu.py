@@ -1,4 +1,5 @@
-angka1 = 1
-angka2 = 2
+angka1 = 20
+angka2 = 4
 
-print(angka1 + angka2)
+#Twenty times 4 =
+print(angka1 * angka2)
